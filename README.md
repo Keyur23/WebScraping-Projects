@@ -1,6 +1,6 @@
 # WebScraping-Projects
 
-Welcome to the Web Scraping Projects Repository! This collection features a series of Python projects that demonstrate the art of web scraping, with a focus on harnessing the power of Pandas for effective data manipulation and analysis.
+Welcome to the Web Scraping Projects Repository! This collection features Python projects that demonstrate the art of web scraping, with a focus on harnessing the power of Pandas for effective data manipulation and analysis.
 
 ## Projects Overview
 
